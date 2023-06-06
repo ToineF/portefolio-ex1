@@ -1,0 +1,21 @@
+body {
+    background-image: none;
+    background-color:#ad2e44;
+}
+
+.background-body {
+    background-color: #781d4f;
+}
+
+footer {
+    background-color: #781d4f;
+}
+
+a {
+    color: #fa5c5c;
+    /*font-weight: bold;*/
+}
+
+.paragraph-container {
+    font-family: 'Lato', sans-serif;
+}
