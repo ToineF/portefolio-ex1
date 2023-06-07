@@ -36,20 +36,16 @@ button:hover {
     .column-container {
         display: flex;
         flex-direction: column;
-        grid-template-columns: 1fr;
-        grid-template-rows: 1fr 1fr;
     }
 
     .screenshot {
         width: 300px;
-        border-radius: 0px;
     }
 
     .screenshots-container {
         max-width: 82vw;
         grid-auto-flow: column;
         overflow-x: scroll;
-        gap:0%;
         justify-content: start;
         align-self: center;
     }
