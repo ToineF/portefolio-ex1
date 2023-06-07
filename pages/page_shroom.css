@@ -20,7 +20,7 @@ a {
     font-family: 'Lato', sans-serif;
 }
 
-@media (orientation: landscape) {
+@media  (width < 800px) {
     .column-container {
         display: flex;
         flex-direction: column;
