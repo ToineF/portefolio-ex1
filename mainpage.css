@@ -125,6 +125,7 @@ footer {
     align-content: start;
     gap: 20px;
     padding: 15px;
+    overflow: auto;
 }
 
 .screenshot {
@@ -136,7 +137,7 @@ footer {
     display: grid;
     gap:20px;
     align-content: start;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: normal;
     font-family: 'Lato', sans-serif;
     color:#91e7bf;
