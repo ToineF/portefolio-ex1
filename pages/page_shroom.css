@@ -16,6 +16,14 @@ a {
     /*font-weight: bold;*/
 }
 
+button {
+    background-color: #fa5c5c;
+}
+
+button:hover {
+    background-color: #c84444;
+}
+
 .paragraph-container {
     font-family: 'Lato', sans-serif;
 }
